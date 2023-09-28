@@ -1,8 +1,13 @@
 # dockerized_tools
 Delve into my dockerized pen-testing tools optimized for effortless deployment, utilizing the power of containerization for seamless integration and usage.
 
-## NO MORE SEARCHING FOR THE RIGHT VERSIONS.
+<br>
 
-## NO MORE ERRORS ON DEPENDENCIES NOT FOUND.
+![docker terminal logo](https://2.bp.blogspot.com/-iZdiY0Ma9cE/W5qABYxdDvI/AAAAAAAAtNM/mzb27W6phLI6E3_PxE24eGbChHFOMu-tQCLcBGAs/s1600/dock0.jpg)
 
-## NO MORE SETTING UP CONFIGURATION.
+
+* ~~SEARCHING FOR DEDICATED VERSIONS TO SETUP.~~
+
+* ~~ERROR: REQUIRED FILE NOT FOUND.~~
+
+* ~~CONFIGURATION BEFORE RUNNING.~~
